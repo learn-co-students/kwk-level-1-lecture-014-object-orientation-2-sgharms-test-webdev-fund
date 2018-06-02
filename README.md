@@ -5,7 +5,7 @@
 
 The second lesson on object oriented programming will dive deeper into class methods and variables, and further distinguish a Class from the instances it may generate.
 
-## SWBATS
+## Students Will Be Able To (SWBAT)
 
 + RUBY/OOP - Distinguish and implement class vs. instance variables
 + RUBY/OOP - Distinguish and implement class vs. instance methods
@@ -116,7 +116,3 @@ Go ahead and run this in IRB (make sure `Element` and `Quizzer` are defined!). T
   - Add more elements!
   - Implement a class method, `self.quiz_random_element` which samples a random element from the class `@@periodic_table` variable and then passes it along to the quiz method we already built
   - add in class attributes to keep track of quizzing success record, i.e. an attribute keeping track of total attempts and an attribute keeping track of successful answers count
-
-**Students should now work on the labs/Learn.co material, which reinforces Ruby object oriented programming principles** 
-
-<p data-visibility='hidden'>KWK-L1 Class Variables and Class Methods</p>
